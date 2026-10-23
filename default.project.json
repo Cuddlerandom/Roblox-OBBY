@@ -1,0 +1,10 @@
+{
+  "name": "InfinityObby",
+  "tree": {
+    "$className": "DataModel",
+    "ServerScriptService": {
+      "$className": "ServerScriptService",
+      "$path": "src/ServerScriptService"
+    }
+  }
+}
